@@ -6,7 +6,7 @@ email: 2812099758@qq.com
 location: 中国辽宁省大连市
 skin: midnight
 
-subscribe：false
+subscribe: false
 
 plugins:
   - jekyll-seo-tag
