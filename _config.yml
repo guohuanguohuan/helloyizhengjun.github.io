@@ -1,8 +1,10 @@
-title: 简历
+title: 首页
 description: 2021年6月1日简历中文版。
 author: 羿政君
 avatar: /简历图照片.jpg
 email: 2812099758@qq.com
+location: 银河系，太阳系，地球，中国，辽宁省，大连市
+skin: midnight
 
 plugins:
   - jekyll-seo-tag
@@ -10,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 10
+paginate: 3
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
