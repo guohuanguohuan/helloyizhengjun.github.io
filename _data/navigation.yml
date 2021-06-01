@@ -1,14 +1,5 @@
-- title: About
-  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
+- title: 范围
   url: /categories/
-- title: Tags
+- title: 标签
   url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+
