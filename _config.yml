@@ -6,6 +6,8 @@ email: 2812099758@qq.com
 location: 银河系，太阳系，地球，中国，辽宁省，大连市
 skin: midnight
 
+subscribe：false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
