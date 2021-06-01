@@ -1,6 +1,6 @@
 ---
 layout: post
-toc: true
+toc: false
 title: "This post demonstrates post content styles"
 categories: junk
 tags: [markdown, css, html]
