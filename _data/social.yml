@@ -1,7 +1,8 @@
-{% comment %}
+{% comment %} 
 - title: Twitter
   url: https://twitter.com/ngzhio
   icon: fab fa-twitter
+{% endcomment %}
 
 
 - title: GitHub
