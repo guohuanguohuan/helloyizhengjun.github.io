@@ -94,3 +94,62 @@ Title 1 | Title 2 | Title 3 | Title 4
 对齐 | 对齐 | 对齐 | 对齐
 对齐 | 对齐 | 对齐 | 对齐
 对齐 | 对齐 | 对齐 | 对齐
+
+
+
+两种可选操作的方法
+
+Source:
+
+```markdown
+- [x] Eating
+- [ ] Walking
+  - [ ] Running
+- [ ] Sleeping
+```
+
+Rendered:
+
+- [x] Eating
+- [ ] Walking
+  - [ ] Running
+- [ ] Sleeping
+
+
+
+
+{% comment %}
+这里可以用于注释。
+{% endcomment %}
+
+可以将自己的新的网页风格放置在_layout中并设置名字为my-themes-great-include.html
+
+
+
+文件夹_layouts中记录的是网页风格layout: post中post就是其中一个，可以更换。
+
+
+
+
+
+知识点记录：
+这个的文件是在文件夹`_posts`中,如果想要新建一个文件可以直接命名成2021-06-01-简单介绍2.md，即可。
+
+<!--这些是注释文本，不会显示-->
+
+强调内容：可以放置代码
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+#这个符号在这里是注释符号
+{% endhighlight %}
+[超链接用法][jekyll-docs]
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+
+最下方的小号的文字说明在_include/footer.html
+
+右上角的东西在_data中

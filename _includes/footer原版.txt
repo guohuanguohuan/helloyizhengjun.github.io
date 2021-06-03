@@ -14,7 +14,7 @@
       {% endif %}
     </div>
     <p>
-      个人<a href="https://github.com/helloyizhengjun/helloyizhengjun.github.io">GitHub</a> 
+      简单说明 <a href="https://github.com/helloyizhengjun/helloyizhengjun.github.io">超链接</a> & <a href="https://github.com/helloyizhengjun/helloyizhengjun.github.io">超链接2</a>
     </p>
   </div>
 
