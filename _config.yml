@@ -8,7 +8,7 @@ location: 中国辽宁省大连市
 
 skin: daylight
 
-subscribe: false
+subscribe: true
 
 plugins:
   - jekyll-seo-tag
