@@ -1,10 +1,10 @@
 # Hamilton <!-- omit in toc -->
 
-A minimal and beautiful Jekyll theme best for writing and note-taking.
+A minimal and beautiful Jekyll theme best for writing and note-taking.一个简约而美丽的Jekyll主题，最适合写作和记事。
 
-The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
+The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.这个主题的初衷是要取代默认的Jekyll主题--Minima。Hamilton是Minima的增强版，但仍要保持最小化。
 
-Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
+Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).请查看演示。
 
 | Skins | Displays |
 | ----- | -------- |
@@ -45,7 +45,7 @@ Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 
 ## Installation
 
-You can choose one of the following methods to install Hamilton:
+You can choose one of the following methods to install Hamilton:你可以选择以下方法之一来安装汉密尔顿。
 
 - Directly specify the `jekyll-theme-hamilton` gem.
 
@@ -65,26 +65,26 @@ You can choose one of the following methods to install Hamilton:
         ```yml
         plugins:
           - jekyll-remote-theme
-
+        
         remote_theme: ngzhio/jekyll-theme-hamilton
         ```
 
 ## Configuration
 
-After installation, you can run `jekyll serve` to check out your site, but before that, *make sure* the below **required parameters** are configured in your `_config.yml`.
+After installation, you can run `jekyll serve` to check out your site, but before that, *make sure* the below **required parameters** are configured in your `_config.yml`.安装完成后，你可以运行jekyll serve来检查你的网站，但在此之前，请确保在你的_config.yml中配置了以下必要的参数。
 
 | Parameters | Types | Specifications |
 |:---------- |:----- |:-------------- |
 | `title`    | string | The site title |
-| `disqus`   | string | The Disqus shortname; Unless you don't want to enable the comments system, you must specify this parameter. It is used in the production environment. |
-| `google_analytics` | string | The Google Analytics tracking ID; It is used in the production environment. |
+| `disqus`   | string | The Disqus shortname; Unless you don't want to enable the comments system, you must specify this parameter. It is used in the production environment.Disqus的短名；除非你不想启用评论系统，否则你必须指定这个参数。它在生产环境中使用。 |
+| `google_analytics` | string | 谷歌分析的跟踪ID；它在生产环境中使用。 |
 
 ### Optional Parameters
 
 | Parameters | Types | Specifications |
 |:---------- |:----- |:-------------- |
 | `author`   | string | The name of the author of the site; It would be showed in the copyright statement. |
-| `avatar`   | string | The avatar of the author of the site. |
+| `avatar`   | string | The avatar of the author of the site.该网站作者的头像 |
 | `email`    | string | The email of the author of the site. |
 | `location` | string | The current living location of the author of the site. |
 | `skin`     | string | The skin name. See more information on the [Customization](#customization) section. |

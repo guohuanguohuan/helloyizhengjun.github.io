@@ -2,6 +2,11 @@
   url: /about/
 - title: Years
   url: /years/
+- title: 范围
+  url: /categories/
+- title: 标签
+  url: /tags/
+
 - title: More
   sublinks:
     - title: FAQ
